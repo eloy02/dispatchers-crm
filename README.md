@@ -8,13 +8,14 @@
 
 ## Roadmap
 
-- Авторизация и идентификация пользователя
-- Админка с возможностью редактирования справочников приложения и в будущем настроек приложения
-- Страница со списком заявок
-- Страница создания заявки
-- Интеграция с ФИАС
-- Интеграция с телефонией
-- Отчеты
+- [ ] Авторизация и идентификация пользователя
+- [ ] Админка с возможностью редактирования справочников приложения и в будущем настроек приложения
+- [ ] Страница со списком заявок
+- [ ] Страница создания заявки
+- [ ] Интеграция с ФИАС
+- [ ] Интеграция с телефонией
+- [ ] Отчеты
+
 
 # English
 
@@ -26,12 +27,12 @@ An attempt to create an application for receiving and accounting dispatcher cent
 
 ## Roadmap
 
-- Authorization and user identification
-- Admin panel with the ability to edit application directories and application settings
-- A page with a list of requests
-- Requests creation page
-- Integration with https://fias.nalog.ru/ database
-- Integration with telephony
-- Reports
+- [ ] Authorization and user identification
+- [ ] Admin panel with the ability to edit application directories and application settings
+- [ ] A page with a list of requests
+- [ ] Requests creation page
+- [ ] Integration with https://fias.nalog.ru/ database
+- [ ] Integration with telephony
+- [ ] Reports
 
 
