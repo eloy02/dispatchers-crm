@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispatchers.App.Core", "Dis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispatchers.App.Service", "Dispatchers.App.Service\Dispatchers.App.Service.csproj", "{BA18A8F2-DDBC-4647-8621-7AE3118B89B3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{75B869A9-40A1-4860-B7D9-AA1CA725584B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{028FD637-89B2-45DA-906D-94358C72DF3D} = {75B869A9-40A1-4860-B7D9-AA1CA725584B}
+		{C7925F92-9FF0-4EB8-9707-776A90B1C260} = {75B869A9-40A1-4860-B7D9-AA1CA725584B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CAE6C3D2-3EC8-4406-BB7F-E991166EC402}
