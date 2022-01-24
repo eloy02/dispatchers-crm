@@ -1,4 +1,3 @@
-using Dispatchers.App.Service;
 using Grpc.Core;
 
 namespace Dispatchers.App.Service.Services
