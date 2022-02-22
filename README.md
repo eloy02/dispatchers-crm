@@ -1,8 +1,10 @@
-# dispatchers
+# dispatchers-crm
 
-Попытка создать приложение для приема и учета заявок диспетчерского центра. 
+Приложение для приема и учета заявок диспетчерского центра. 
 
-**Внимание проект для тренировки и опробирования новых библиотех, технологий, архитектурных моментов и не пригоден для использование в продуктовых средах.**
+Попытка написать свой вариант приложения с учетом возникших ранее ошибок
+
+**Внимание проект для тренировки и опробирования новых библиотех, технологий, архитектурных моментов**
 
 **Проект делается в свободное от работы время и не имеет чётких границ по времени**
 
@@ -33,7 +35,7 @@
 
 An attempt to create an application for receiving and accounting dispatcher center requests.
 
-**Attention! The project is for training and testing new libraries, technologies, architectural moments and is not suitable for use in product environments.**
+**Attention! The project is for training and testing new libraries, technologies, architectural moments.**
 
 **The project is written in my spare time and has no clear time limits**
 
